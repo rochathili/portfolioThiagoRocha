@@ -2,7 +2,7 @@
 
 Este é o meu portfólio desenvolvido no curso de Desenvolvimento Web para exercitar o uso das tags HTML.
 
-## Como Executar
+## Como executar localmente
 
 Para executar o arquivo `index.html` e visualizar o portfólio no seu navegador, siga os passos abaixo:
 
